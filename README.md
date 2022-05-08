@@ -7,7 +7,7 @@ A Quality Of Life Money making mod, that gives you notifications on Bazaar drops
 
 ### AHS Download:
 
-Another amazing mod made by OxyDrax
+Another amazing mod made by PB
 
 This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/925468288337735750/972847366174560296/AHS-2.7.3.jar)
 
@@ -17,7 +17,7 @@ Making coins is hard, This mod makes it easy. Step by step helpful tips and tric
 ### Is this bannable?
 Short answer: This mod follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely **not bannable**, but as with all mods, it is use at your own risk.
 
-### ILikeCoins Updated v.1.1.1
+### Private mod, Semi-Public
 
 
 ### Hotkeys:
